@@ -1,0 +1,7 @@
+/tmp/
+/.idea/
+/build/
+/.gradle/
+/*.iml
+/out/
+/.kotlin/
